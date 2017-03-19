@@ -4,6 +4,6 @@
     require("../includes/config.php"); 
     
     // render interests
-    render("interests.php", [ "title" => "Interests"]);
+    render("questions.php", [ "title" => "Questions"]);
     
 ?>
